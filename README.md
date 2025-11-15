@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VicDD1
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me : don't 
-- 😄 Pronouns: C#/WPF
-- ⚡ Fun fact: i like money🦀
+- 👀 I’m interested in C#,JS,Html,Css projects
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS,C#,SQL project
+- 📫 How to reach me : victor.duchesne-delapierre@etu.univ-smb.fr
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I love chocolate
 
 <!---
 VicDD1/VicDD1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
