@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on JS,C#,SQL project
 - 📫 How to reach me : victor.duchesne-delapierre@etu.univ-smb.fr
-- 😄 Pronouns: they/them
 - ⚡ Fun fact: I love chocolate
 
 <!---
